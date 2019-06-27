@@ -6,4 +6,16 @@
 6. cornercases while adding elements
 7. sorting and ordering
 
+https://www.baeldung.com/java-hashset-arraylist-contains-performance
 
+Collection 
+  -> List
+    -> ArrayList
+    -> LinkedList
+    -> Vector
+  -> Set
+    -> HashSet -> LinkedHashSet
+    -> SortedSet (Interface) -> TreeSet
+  -> Queue
+    -> PriorityQueue
+    
